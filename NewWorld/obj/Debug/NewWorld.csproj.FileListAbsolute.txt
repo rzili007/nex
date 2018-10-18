@@ -1,0 +1,12 @@
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\NewWorld.exe.config
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\NewWorld.exe
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\NewWorld.pdb
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\obj\Debug\NewWorld.csprojResolveAssemblyReference.cache
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\obj\Debug\NewWorld.exe
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\obj\Debug\NewWorld.pdb
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\Database1.mdf
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\Database1_log.ldf
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\EntityFramework.dll
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\EntityFramework.xml
+C:\Users\Radouane\Documents\Visual Studio 2017\Projects\NewWorld\NewWorld\bin\Debug\EntityFramework.SqlServer.xml
